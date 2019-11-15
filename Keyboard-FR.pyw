@@ -43,7 +43,7 @@ keys =[
         ("Touches de Fonction"),
         ({"side":"top","expand":"yes","fill":"both"}),
         [
-            ("Ech","nothing", "F1", "F2","F3","F4","nothing","F5","F6","F7","F8","nothing","F9","F10","F11","F12")
+            ("Ech","nothing","F1", "F2","F3","F4","nothing","F5","F6","F7","F8","nothing","F9","F10","F11","F12")
         ]
     ],
 

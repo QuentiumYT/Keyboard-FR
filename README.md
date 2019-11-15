@@ -11,11 +11,11 @@
 
 >#### French virtual keyboard which replaces your keyboard and write the text entered in a text field.
 <br>
-![](https://quentium.fr/programs/Github/Keyboard-FR.gif)
+<p align="center"><img src="https://quentium.fr/programs/Github/Keyboard-FR.gif"></p>
 
 ## 📥 Installation
 
-- Download the source code [here](https://github.com/QuentiumYT/Keyboard-FR/archive/master.zip) and run `Keyboard-FR.pyw` on your computer (you will need socket, platform, psutil, wmi and ctypes modules)
+- Download the source code [here](https://github.com/QuentiumYT/Keyboard-FR/archive/master.zip) and run `Keyboard-FR.pyw` on your computer (no specific module required)
 - Download the 64bits compiled executable [here](https://quentium.fr/download.php?file=Keyboard-FR.exe)!
 - Download the 32bits compiled executable [here](https://quentium.fr/download.php?file=Keyboard-FR-32.exe)!
 
